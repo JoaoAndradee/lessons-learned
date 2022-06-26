@@ -3,6 +3,7 @@ body {
 }
 
 #cabecalho {
+    position: relative;
     top: 0;
     min-height: 100px;
     border: 1px solid black;
