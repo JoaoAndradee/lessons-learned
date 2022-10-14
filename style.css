@@ -20,14 +20,11 @@ body {
 
 #project-info {
   line-height: normal;
+  width: 50%;
 }
 
 #info-general {
   display: flex;
-}
-
-#project-info {
-  width: 50%;
 }
 
 #my-info {
