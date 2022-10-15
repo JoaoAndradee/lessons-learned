@@ -21,6 +21,11 @@
   "devDependencies": {
     "cypress": "^5.0.0",
     "cypress-multi-reporters": "^1.2.3",
+    "eslint": "^8.25.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.3.0",
+    "eslint-plugin-promise": "^6.1.0",
     "minimist": ">=1.2.2",
     "mocha": "^7.0.1",
     "mochawesome": "^4.1.0",
