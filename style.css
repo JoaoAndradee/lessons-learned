@@ -77,6 +77,8 @@ main {
 
 #lessons {
   font-size: 30px;
+  margin-top: 30px;
+  margin-left: 10px;
   display: flex;
   width: 45%;
   justify-content: space-between;
@@ -92,6 +94,33 @@ ol li {
 
 #main-body {
   display: flex;
+}
+
+table{
+  border-color: white;
+}
+
+tr {
+  text-align: left;
+}
+
+
+
+#acontecimento {
+  text-align: left;
+}
+
+td {
+  padding: 5px;
+}
+
+thead {
+  width: 100%;
+}
+
+thead tr {
+  display: flex;
+  justify-content: center;
 }
 
 a:link,
